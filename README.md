@@ -1,6 +1,6 @@
 # SpaceX starlink trajectory application
 
 ## Install
-`npm build`
+`npm install`
 ## Start
 `npm start`
